@@ -1,0 +1,2 @@
+<a href="./edit_sale.php?id={{ sale.id_transaction }}"><img id="list-button" src="../view/images/edit.png" alt="Modificar"></a>
+<a href="./delete_transaction.php?id={{ sale.id_transaction }}&tipo=2"><img id="list-button" src="../view/images/delete.png" alt="Borrar"></a>

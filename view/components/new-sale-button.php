@@ -1,0 +1,1 @@
+<a href="./new_sale.php"><img id="list-button" src="../view/images/add.png" alt="Agregar"></a>
